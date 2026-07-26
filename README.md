@@ -21,6 +21,8 @@ My name is Nguyễn Hồng Nam. I am an undergraduate student at Hanoi Universit
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=saturina0611&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=saturina0611&langs_count=4&theme=dark)
 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nguyenhongnam207&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/nguyenhongnam207)
+
 ### 📬 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/saturina/)
