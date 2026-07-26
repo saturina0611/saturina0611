@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Nguyễn Hồng Nam. I am an undergraduate student at Hanoi University of Science and Technology (HUST), majoring in Computer Science. I am interested in the following topics: Artificial Intelligence(AI), Machine Learning(ML), Deep Learning(DL), Natural Language Processing(NLP).
+
+### 📬 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/saturina/)
+- [GitHub](https://github.com/saturina0611)
+- [Youtube](https://www.youtube.com/@82diemtsa)
