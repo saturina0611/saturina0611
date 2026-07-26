@@ -19,6 +19,8 @@ My name is Nguyễn Hồng Nam. I am an undergraduate student at Hanoi Universit
 
 [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=saturina0611)](https://github.com/stats-organization/github-stats-extended)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=saturina0611&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=saturina0611&langs_count=4&theme=dark)
+
 ### 📬 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/saturina/)
