@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 My name is Nguyễn Hồng Nam. I am an undergraduate student at Hanoi University of Science and Technology (HUST), majoring in Computer Science. I am interested in the following topics: Artificial Intelligence(AI), Machine Learning(ML), Deep Learning(DL), Natural Language Processing(NLP).
 
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=saturina0611)](https://github.com/stats-organization/github-stats-extended)
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=saturina0611&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=saturina0611&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=saturina0611&langs_count=4&theme=dark)
 
