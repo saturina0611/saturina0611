@@ -43,6 +43,8 @@ My name is Nguyễn Hồng Nam. I am an undergraduate student at Hanoi Universit
   Major: Computer Science (CS)<br />
   2025.1 GPA: <b>4.0 / 4.0</b> <br />
   <i>Học bổng Khuyến khích Học tập kỳ 2025.1</i>
+  Đạt Giải Ba môn Giải tích kỳ thi Olympic Toán học Sinh viên cấp Đại học năm 2026
+  Lọt Top 3 Vòng loại cuộc thi Vô địch Tin học Văn phòng Thế giới (MOSWC) cấp Đại học năm 2026, môn Excel 2019.
 </p>
 <p>
 
